@@ -1,9 +1,19 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## byants
 
+- [ ] msrf - 大华设备接入
+- [ ] msrf - 潜力历史数据同步
+- [ ] msrf - 三防设备数据同步
+- [ ] msrf - 三防设备实施
+- [ ] msrf - 资源树处理
+- [ ] msrf - 搜索框处理
+- [ ] qyxf-导出数据
+- [ ] msrf-三方设备报警信息保留两位小数
 
 
 ## 调研
@@ -17,6 +27,7 @@ kanban-plugin: board
 
 ## 完成
 
+**完成**
 
 
 
